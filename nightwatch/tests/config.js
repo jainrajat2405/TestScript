@@ -1,8 +1,8 @@
 export default{
 
-	url: "https://uat-analytics.thecarecloud.com/demonf/demo",
-	username:'vgaur@netlink.com',
-	password:'AAA!111aaa',
+	url: "myurl",
+	username:'username',
+	password:'enterpassword',
 	numberOfThumbnails:8,
 	numberOfDashboards:8,
 	numberOfNative:1,
